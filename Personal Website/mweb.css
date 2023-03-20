@@ -1,0 +1,22 @@
+.fixlock {
+  border: 0px solid black;
+  width: 250px;
+  text-align: center;
+}
+h1, h2 {
+    margin: 0 auto;
+}
+  body {
+    background-color: rgb(99, 219, 129);
+  }
+
+img {
+  display: block;
+  width: 250px;
+  height: 250px;
+  
+}
+.container {
+  margin-top: 360px;
+  margin-left: 800px;
+}
